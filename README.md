@@ -76,7 +76,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/5621f712-3743-4fae-80ba-b1730a7af086)
+![image](https://github.com/user-attachments/assets/7c724c1c-1e2f-412a-a6dd-09b0a000895b)
+
 
 ## RESULT: 
 Hence, the simulation of AES encryption and decryption is successfully done.
